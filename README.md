@@ -5,5 +5,4 @@
 <img width="948" alt="Horiseon Site" src="https://user-images.githubusercontent.com/85808870/124414718-d9ebe080-dd18-11eb-9c0e-67554c16bf23.PNG">
 
 
-![alttext](assets\images\Horiseon Site.PNG)
-
+# https://vince-rivera.github.io/Horiseon-Project/
